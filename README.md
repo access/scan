@@ -38,13 +38,13 @@ I (9601396) scan: SSID          HUAWEI-B525-FDEC
 I (9601396) scan: MAC:          bc:3d:85:23:fd:ec  
 I (9601406) scan: CHNL          5  
 
-I (9601406) scan: RSSI          -79
-I (9601406) scan: Authmode      WIFI_AUTH_WPA2_PSK
-I (9601416) scan: Pairwise Cipher       WIFI_CIPHER_TYPE_CCMP
-I (9601416) scan: Group Cipher  WIFI_CIPHER_TYPE_CCMP
-I (9601426) scan: SSID          FF245
-I (9601426) scan: MAC:          58:98:35:ba:e5:eb
-I (9601436) scan: CHNL          6
+I (9601406) scan: RSSI          -79  
+I (9601406) scan: Authmode      WIFI_AUTH_WPA2_PSK  
+I (9601416) scan: Pairwise Cipher       WIFI_CIPHER_TYPE_CCMP  
+I (9601416) scan: Group Cipher  WIFI_CIPHER_TYPE_CCMP  
+I (9601426) scan: SSID          FF245  
+I (9601426) scan: MAC:          58:98:35:ba:e5:eb  
+I (9601436) scan: CHNL          6  
 
 I (9601436) scan: RSSI          -88  
 I (9601446) scan: Authmode      WIFI_AUTH_WPA2_PSK  
