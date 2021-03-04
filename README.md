@@ -4,7 +4,11 @@ This example shows how to scan for available set of APs using ESP32 WROOM.
 
 * The SCAN_LIST_SIZE parameter needs to be set from the example configuration menu. It represents maximum number of scan list entries that driver can populate.
 
+
+
 Scanning WIFI`s...
+
+
 I (9601306) scan: Total APs scanned = 7
 I (9601306) scan: SSID          _
 I (9601306) scan: MAC:          c:b5:27:fe:2b:c5
